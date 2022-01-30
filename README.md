@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Kevpimp5 @ Kevgosoft
-- 👀 I’m interested in Web Page Development and Software Programming
-- 🌱 I’m currently learning HTML, CSS, Javascript, C++, React, and basically anything programming.
-- 💞️ I’m looking to collaborate on a Strategy Game or Poker Application 
+- 🌱 I’m currently enhancing my skills in HTML, CSS, Javascript, C++, React, and basically anything else programming.
+- ✨ All of my programming work here is hand typed.
+- 👀 I’m interested in Web Page Development and Software Programming.
+- 💞️ I’m also interested in building Video Games be it Strategy Games or Poker Applications. 
 - 📫 Kevgosoft@yahoo.com
 
 <!---
