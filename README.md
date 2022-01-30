@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kevpimp5(K.O.)@ Kevgosoft
+- 👋 Hi, I’m @Kevpimp5(aki K.O.)@ Kevgosoft
 - 🌱 I’m currently enhancing my skills in HTML, CSS, Javascript, C++, React...software developement. ;)
 - ✨ All of my programming work here is typed with these hands.
 - 👀 I’m interested in Web Page Development and Software Programming.
