@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Kevpimp5(aka K.O.)@ Kevgosoft
-- 🌱 I’m currently enhancing my skills Software Developement, HTML, CSS, Javascript, C++, React...whatever!�
+- 👋 Hi, I’m Kevin O @ Kevgosoft
+- 🌱 I’m currently enhancing my skills Software Developement, HTML, CSS, Javascript, C++, React...anything Computer related!✨
 - ✨ All of my programming work here is personally typed, with these hands👋
-- 👀 I’m interested in Web Page Development and Software Programming✨
-- 💞️ I’m also interested in building Video Games be it Strategy Games or Poker Applications💞️ 
+- 👀 I’m interested in Programming, Web Page Development, Computer Science and I.T.✨
+- 💞️ I’m also passionate about playing and designing Video Games like Strategy Games or Gaming Applications💞️ 
 - 📫 Kevgosoft@yahoo.com
 
 <!---
